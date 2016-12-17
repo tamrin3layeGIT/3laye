@@ -59,3 +59,11 @@ namespace Student
         }
     }
 }
+// private void FillGrid()
+ //       {
+ //           gv.DataSource = db.tblStudent.ToList();
+  //          this.gv.Columns[0].HeaderText = "شناسه";
+    //        this.gv.Columns[1].HeaderText = "نام کامل";
+  //          this.gv.Columns[2].HeaderText = "نمره";
+   //         this.gv.Columns[3].HeaderText = "شماره کلاس";
+   //     }
